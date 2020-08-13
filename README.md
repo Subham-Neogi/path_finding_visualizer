@@ -50,7 +50,7 @@ In Gitpod workspace proceed as stated in `Run in Local Machine`.
 
 > python3 path_finding.py
 
-*Another Note*: The GUI is a little glithcy in GitPod. For best results expand the VNC window to be full screen.
+*Another Note*: The GUI is a little glitchy in GitPod. For best results expand the VNC window to be full screen.
 
 ## Demo
 
