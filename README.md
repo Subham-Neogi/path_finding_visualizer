@@ -42,7 +42,7 @@ You can also run the program in Gitpod, a free online dev environment for GitHub
 
 Requires a Gitpod account to use.
 In Gitpod workspace proceed as stated in `Run in Local Machine`
-*Please Note*: The GUI is a little glithcy in GitPod. For best results expand the VNC window to be full screen.
+Please Note: The GUI is a little glithcy in GitPod. For best results expand the VNC window to be full screen.
 
 ## Reference
 
