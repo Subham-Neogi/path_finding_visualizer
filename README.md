@@ -40,7 +40,7 @@ Use `cursor` to draw walls and press `SPACE` button to start visualization.
 
 You can also run the program in Gitpod, a free online dev environment for GitHub:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)]()
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Subham-Neogi/path_finding_visualizer/blob/master/path_finding.py)
 
 Requires a Gitpod account to use.
 
