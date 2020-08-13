@@ -46,7 +46,11 @@ Requires a Gitpod account to use.
 
 In Gitpod workspace proceed as stated in `Run in Local Machine`.
 
-*Please Note*: The GUI is a little glithcy in GitPod. For best results expand the VNC window to be full screen.
+*Please Note*: After installing pygame in workspace run 
+
+> python3 path_finding.py
+
+*Another Note*: The GUI is a little glithcy in GitPod. For best results expand the VNC window to be full screen.
 
 ## Demo
 
