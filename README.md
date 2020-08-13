@@ -28,10 +28,12 @@ Download or clone the repository. Go to the download directory and open console.
 
 Run:
 
-`python path_finding.py`
+> python path_finding.py
 
 If required packages are not installed user will get a prompt to install. Proceed with the instructions.
-Enter start and end co-ordinates (comma separated integers). After setting all the options press `Submit`
+
+Enter start and end co-ordinates (comma separated integers). After setting all the options press `Submit`.
+
 Use `cursor` to draw walls and press `SPACE` button to start visualization.
 
 ## Run in Gitpod
@@ -41,8 +43,14 @@ You can also run the program in Gitpod, a free online dev environment for GitHub
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)]()
 
 Requires a Gitpod account to use.
-In Gitpod workspace proceed as stated in `Run in Local Machine`
-Please Note: The GUI is a little glithcy in GitPod. For best results expand the VNC window to be full screen.
+
+In Gitpod workspace proceed as stated in `Run in Local Machine`.
+
+*Please Note*: The GUI is a little glithcy in GitPod. For best results expand the VNC window to be full screen.
+
+## Demo
+
+![A*](demo/ezgif.com-gif-maker.gif)
 
 ## Reference
 
