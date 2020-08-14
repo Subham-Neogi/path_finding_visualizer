@@ -1,4 +1,6 @@
 [![HitCount](http://hits.dwyl.com/Subham-Neogi/path_finding_visualizer.svg)](http://hits.dwyl.com/Subham-Neogi/path_finding_visualizer)
+<br>
+
 [![forthebadge made-with-python](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://www.python.org/)
 <br>
