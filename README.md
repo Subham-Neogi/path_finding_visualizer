@@ -1,3 +1,8 @@
+[![HitCount](http://hits.dwyl.com/Subham-Neogi/path_finding_visualizer.svg)](http://hits.dwyl.com/Subham-Neogi/path_finding_visualizer)
+[![forthebadge made-with-python](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://www.python.org/)
+<br>
+
 # Path Finding Visualizer in Python using Pygame and TKinter
 
 A python visualization of some well known path finding algorithms. It allows you to pick your start and end location, algorithm, heuristics, weights and obstacle layout and then lets you view the process of finding the shortest path.
