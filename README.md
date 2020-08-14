@@ -1,8 +1,4 @@
-[![HitCount](http://hits.dwyl.com/Subham-Neogi/path_finding_visualizer.svg)](http://hits.dwyl.com/Subham-Neogi/path_finding_visualizer)
-<br>
-
 [![forthebadge made-with-python](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://www.python.org/)
 <br>
 
 # Path Finding Visualizer in Python using Pygame and TKinter
@@ -66,4 +62,7 @@ In Gitpod workspace proceed as stated in `Run in Local Machine`.
 ## Reference
 
 [https://github.com/techwithtim/A-Path-Finding-Visualization](https://github.com/techwithtim/A-Path-Finding-Visualization)
+
+[![HitCount](http://hits.dwyl.com/Subham-Neogi/path_finding_visualizer.svg)](http://hits.dwyl.com/Subham-Neogi/path_finding_visualizer)
+
 
